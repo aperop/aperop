@@ -5,11 +5,11 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently learning as a programmer at [School 21](https://21-school.ru/) ([École 42](https://42.fr/))\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:watch: &nbsp;Passionate with daily routines automation.\
-&nbsp;&nbsp;&nbsp;:computer: &nbsp;Currently interesting machine learning and artificial intelegence.\
-&nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Kazan, :ru:Russia.
+&nbsp;&nbsp;&nbsp; 👨‍💻 &nbsp;Currently learning as a programmer at [School 21](https://21-school.ru/) ([École 42](https://42.fr/))\
+&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp; :watch: &nbsp;Passionate with daily routines automation.\
+&nbsp;&nbsp;&nbsp; :computer: &nbsp;Currently interesting machine learning and artificial intelegence.\
+&nbsp;&nbsp;&nbsp; :house: &nbsp;Living in Kazan, :ru:Russia.
 
 <p align="center">
   <a href="mailto:ildarnyrt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
