@@ -1,8 +1,3 @@
-<table align="right">
- <tr><td><a href="README.md">:gb: English</a></td></tr>
- <tr><td><a href="README_ru.md">:ru: Русский</a></td></tr>
-</table>
-
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp; 👨‍💻 &nbsp;Currently learning as a programmer at [School 21](https://21-school.ru/) ([École 42](https://42.fr/))\
