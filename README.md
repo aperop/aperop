@@ -40,14 +40,15 @@
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;Statistics</b></summary>
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=aperop&hide_border=true&theme=algolia" />
+        <a href="https://profile.intra.42.fr/users/dhawkgir"><img height="150px" src="https://badge42.herokuapp.com/api/stats/dhawkgir" /></a>
+        <img height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=aperop&hide_border=true&theme=algolia" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=aperop&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=algolia" /> 
-        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aperop&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=algolia" />
+        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=aperop&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=algolia" /> 
+        <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aperop&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=algolia" />
     </p>
 </details>
 
