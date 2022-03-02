@@ -43,7 +43,7 @@
   <summary><b>:gear: &nbsp;Statistics</b></summary>
   <br/>
     <p align="center">
-        <a href="https://profile.intra.42.fr/users/dhawkgir"><img height="150px" src="https://badge42.herokuapp.com/api/stats/dhawkgir" /></a>
+<!--         <a href="https://profile.intra.42.fr/users/dhawkgir"><img height="150px" src="https://badge42.herokuapp.com/api/stats/dhawkgir" /></a> -->
         <img height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=aperop&hide_border=true&theme=algolia" />
     </p>
     <p align="center">
