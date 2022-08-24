@@ -57,5 +57,4 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=aperop&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/aperop/aperop?color=black&logo=github" />
 </p>
