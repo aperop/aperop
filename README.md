@@ -1,10 +1,9 @@
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp; 👨‍💻 &nbsp;Currently learning as a programmer at [School 21](https://21-school.ru/) ([École 42](https://42.fr/))\
 &nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp; :watch: &nbsp;Passionate with daily routines automation.\
 &nbsp;&nbsp;&nbsp; :computer: &nbsp;Currently interesting machine learning and artificial intelegence.\
-&nbsp;&nbsp;&nbsp; :house: &nbsp;Living in Kazan, :ru:Russia.
+&nbsp;&nbsp;&nbsp; :house: &nbsp;Living :ru:Russia.
 
 <p align="center">
   <a href="mailto:ildarnyrt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,10 +41,6 @@
 <details>
   <summary><b>:gear: &nbsp;Statistics</b></summary>
   <br/>
-    <p align="center">
-<!--         <a href="https://profile.intra.42.fr/users/dhawkgir"><img height="150px" src="https://badge42.herokuapp.com/api/stats/dhawkgir" /></a> -->
-        <img height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=aperop&hide_border=true&theme=algolia" />
-    </p>
     <p align="center">
         <img height="150px" src="https://github-readme-stats.vercel.app/api?username=aperop&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=algolia" /> 
         <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aperop&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=algolia" />
